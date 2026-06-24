@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-<h3>yoyoyo wsg fam</h3>
+<h6>yoyoyo wsg fam</h6>
